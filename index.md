@@ -38,3 +38,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 <h2>JavaScript title</h2>
 
 <p>Please input a numbers</p>
+
+<input id="numb11" type="number"  value="4" >
